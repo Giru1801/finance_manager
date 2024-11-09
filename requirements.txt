@@ -1,0 +1,2 @@
+# requirements.txt
+bcrypt==3.2.0
